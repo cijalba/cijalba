@@ -115,14 +115,14 @@ Leading Service Delivery: Infrastructure, SRE & DevOps.
 ## 📝 Publications & Contributions 
 
 - **Technical Reviewer**: "Datadog Cloud Monitoring - Quick Start Guide" (PACKT Publishing, June 2021) [https://github.com/PacktPublishing/Datadog-Cloud-Monitoring-Quick-Start-Guide]
-- **Nagios Exchange Plugins**: Developed and published nagios plugins for UNIX/Linux (2016-2018) [https://exchange.nagios.org/author/carlos-ijalba/]
+- **Nagios Exchange Plugins**: Developed and published nagios plugins for UNIX/Linux (2016-2019) [https://exchange.nagios.org/author/carlos-ijalba/]
 - **ManageEngine Application Manager**: Worked with Zoho for the development of Applications Manager's AS400 monitoring tool (Accenture 2013) [https://www.manageengine.com/products/applications_manager/as400-monitoring.html]
 ### Articles published (Expert's Exchange & LinkedIn):
 - **Storage 101**: Common concepts in IT enterprise storage (2015) [https://www.experts-exchange.com/articles/18712/Storage-101-common-concepts-in-the-IT-enterprise-storage.html]
 - **Storage 102**: More concepts of IT enterprise storage (2016) [https://www.experts-exchange.com/articles/28444/Storage-102-more-concepts-of-the-IT-enterprise-storage.html]
 - **System Consoles**: Direct, In-Band Management, Out-of-Band Management (2015) [https://www.experts-exchange.com/articles/21299/System-Consoles-Direct-In-Band-Management-Out-of-Band-Management.html]
 ### Personal Blog:
-- **SYSADMIN'S SHOUTS!**: A sysadmin's blog (personal tech rants and raves)[https://ijalba.wordpress.com/]
+- **SYSADMIN'S SHOUTS!**: A sysadmin's blog (personal IT tech rants and raves, from 2014 - Present)[https://ijalba.wordpress.com/]
 
 ---
 ## 🌍 Languages
