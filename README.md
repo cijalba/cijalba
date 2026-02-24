@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Carlos Ijalba
 
-**Platform Engineer | DevOps Lead | ☁️ Azure & AWS | DevEx | CI/CD | Automation | IaC | International | 🌐 English & Spanish**
+# 👋 Carlos Ijalba
 
-🏆 AWS Certified Solutions Architect - Associate (SAA) | AWS Partner Technical Accredited | Azure Fundamentals (AZ-900) | Registered SCRUM Basics | VMware Certified (VCA-DCV) | IBM UNIX – AIX System Admin 🏆  
+**Senior Platform Engineer | DevOps Leader | Cloud-Native Architect | Automation & Developer Experience Specialist**
+
+🏆 AWS Certified Solutions Architect – Associate | Azure Fundamentals | VMware Certified | IBM UNIX – AIX Admin  
 📍 Palma de Mallorca, Spain
 💼 [LinkedIn](https://www.linkedin.com/in/carlosijalba) | 📝 [Personal Blog](https://ijalba.wordpress.com/)
 
 ---
+
 ## 🚀 About Me
 
-Senior DevOps Engineer specializing in **Platform Engineering** and **cloud-native architectures** with **8+ years** of Azure & AWS expertise. Currently leading platform engineering service delivery at **PayRetailers** and managing DevEx tools.
+Results-driven Platform Engineer and DevOps Leader with 8+ years of hands-on experience designing, building, and scaling cloud-native solutions on Azure and AWS. Proven track record of driving automation, developer enablement, and Infrastructure as Code to deliver robust, maintainable systems for global organizations.
 
-I build reliable, maintainable production systems at scale with a focus on **automation**, **developer enablement**, and **Infrastructure as Code**. International experience **Andorra/UK/Spain**.
+Currently spearheading platform engineering and DevEx initiatives at PayRetailers, I excel at transforming complex requirements into streamlined, high-impact solutions. My international background (Andorra, UK, Spain) and collaborative leadership style empower teams to achieve operational excellence and continuous improvement.
 
-&gt; *"Making strong technical teams through collaboration, knowledge sharing and teamwork."*
+Over 25 years in enterprise IT across Banking, FinTech, Insurance, Telecoms, Healthcare, Government, Disaster Recovery, Television, Security, Web Hosting, and Military sectors.
+
+> *"Empowering teams to deliver innovation through automation, knowledge sharing, and a culture of excellence."*
 
 ---
 ## 🛠️ Tech Stack
@@ -32,11 +36,7 @@ I build reliable, maintainable production systems at scale with a focus on **aut
 ![Puppet](https://img.shields.io/badge/Puppet-FFFFFF?style=for-the-badge&logo=puppet&logoColor=yellow)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![BareMetal](https://img.shields.io/badge/BareMetal-333333?style=for-the-badge)
-
-**Containers & Orchestration:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-326CE5?style=for-the-badge&logo=rancher&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
 
 **CI/CD & DevOps:**
 
@@ -47,7 +47,6 @@ I build reliable, maintainable production systems at scale with a focus on **aut
 ![SonarQube](https://img.shields.io/badge/SonarQube-FFFFFF?style=for-the-badge&logo=sonarqubecloud&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-D24939?style=for-the-badge&logo=git&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-FFFFFF?style=for-the-badge&logo=sonatype&logoColor=black)
-
 
 **AI & Automation Tools:**
 
@@ -60,6 +59,24 @@ I build reliable, maintainable production systems at scale with a focus on **aut
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+**Atlassian:**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![JSM](https://img.shields.io/badge/JSM-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-1D8FCE?style=for-the-badge&logo=sourcetree&logoColor=white)
+![Opsgenie](https://img.shields.io/badge/Opsgenie-FF9B00?style=for-the-badge&logo=opsgenie&logoColor=white)
+![Crowd](https://img.shields.io/badge/Crowd-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Rovo](https://img.shields.io/badge/Rovo-333333?style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Statuspage](https://img.shields.io/badge/Statuspage-1C7ED6?style=for-the-badge&logo=statuspage&logoColor=white)
+
+**Containers & Orchestration:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-326CE5?style=for-the-badge&logo=rancher&logoColor=white)
+
 **Monitoring & Observability:**
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
@@ -68,7 +85,7 @@ I build reliable, maintainable production systems at scale with a focus on **aut
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ManageEngine](https://img.shields.io/badge/ManageEngine-FFFFFF?style=for-the-badge&logo=zoho&logoColor=black)
 ![Nagios](https://img.shields.io/badge/Nagios-0052CC?style=for-the-badge&logo=nagios&logoColor=white)
-![Zabbbix](https://img.shields.io/badge/Zabbix-632CA6?style=for-the-badge&logo=zabbix&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-632CA6?style=for-the-badge&logo=zabbix&logoColor=white)
 
 
 ---
