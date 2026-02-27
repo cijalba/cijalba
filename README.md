@@ -3,7 +3,7 @@
 
 **Senior Platform Engineer | DevOps Leader | Cloud-Native Architect | Automation & Developer Experience Specialist**
 
-🏆 AWS Certified Solutions Architect – Associate | Azure Fundamentals | VMware Certified | IBM UNIX – AIX Admin  
+🏆 AWS Certified Solutions Architect – Associate | Azure Fundamentals | VMware Certified | Unix/Linux Specialist  
 📍 Palma de Mallorca, Spain
 💼 [LinkedIn](https://www.linkedin.com/in/carlosijalba) | 📝 [Personal Blog](https://ijalba.wordpress.com/)
 
@@ -94,11 +94,11 @@ Over 25 years in enterprise IT across Banking, FinTech, Insurance, Telecoms, Hea
 ### **DevEx Platform Engineer** @ PayRetailers *(Sept 2025 - Present)*
 
 - Delivering better development & DevOps solutions through technology
-- **DORA Metrics** implementation (Typo + custom solutions)
-- **AI tooling**: Python, MCP, Cursor, Ollama, Claude, Copilot
+- **Major**: Bitbucket Premium & ADO → GitHub Enterprise Migration, Cursor & Claude → Copilot Business Migration
 - **CI/CD**: Bitbucket, GitHub, Azure DevOps, SonarQube, Snyk
-- **Major**: Bitbucket Premium → GitHub Enterprise Migration
+- **AI tooling**: Python, MCP, Cursor, Ollama, Claude, Copilot
 - **Cost Optimization**: Infrastructure cost reduction &gt;$150k/year (by adjusting Azure, Licensing & AI tools)
+- **DORA Metrics** implementation (Typo + custom solutions)
 
 ### **Platform Engineering Service Delivery Manager** *(Jan 2025 - Present)*
 Leading Service Delivery: Infrastructure, SRE & DevOps.
@@ -106,24 +106,25 @@ Leading Service Delivery: Infrastructure, SRE & DevOps.
 ---
 ## 📈 Previous Experience
 
-- **DevOps Manager** @ PayRetailers (2024) - Built new DevOps team, Release Management, Azure Architecture
-- **Release Manager** @ PayRetailers (2023) - GitFlow, Bitbucket Pipelines, Canary Deploys
-- **DevOps Technology Leader** @ Cognizant Netcentric (2022-2023) - AWS architecture, Tech leadership
-- **Senior DevOps Engineer** @ Cognizant Netcentric (2021-2022)
-- **IT Systems Director** @ Seera Group (2018-2021) - AWS Certified, Infrastructure migration
-- **IT Outsourcing Technical Coordinator** @ Logicalis (2014-2018)
-- **Field Service Engineer** @ Sun Microsystems & Oracle (2013-2014)
-- **Senior Technical Analyst** @ Accenture (2009-2013)
-- Plus 15+ years in Enterprise IT (IBM, UNIX, Storage @ Inditex, Computacenter, Telewest, etc.)
+- **DevOps Manager** @ PayRetailers (2024) - Built new DevOps team, Release Management, Azure architecture, Remote.
+- **Release Manager** @ PayRetailers (2023) - GitFlow, Bitbucket Pipelines, Canary Deploys, Azure, Remote.
+- **DevOps Technology Leader** @ Cognizant Netcentric (2022-2023) - AWS architecture, Tech leadership, Remote.
+- **Senior DevOps Engineer** @ Netcentric (2021-2022) - AWS architecture, DevOps automation, Remote.
+- **IT Systems Director** @ Seera Group/b2bTravelgroup (2018-2021) - AWS Certified, Infrastructure migration, Linux, Windows, Networking, On-Premise.
+- **IT Outsourcing Technical Coordinator** @ Logicalis (2014-2018) - UNIX, Linux, Windows, On-Premise.
+- **Field Service Engineer** @ Sun Microsystems & Oracle (2013-2014) - HW, UNIX & Virtualization, On-Premise.
+- **Senior Technical Analyst** @ Accenture (2009-2013) - UNIX, Middleware, Linux, On-Premise.
+- Previously **15+ years in Enterprise IT** (IBM, UNIX, Linux, AS/400, Backups & Storage @ Inditex, Computacenter, Independent Insurance & Telewest/CABLE North West/South Western Bell Communications, On-Premise.)
 
 ---
 ## 🏆 Certifications
 
+- Claude Code in Action
 - Registered Scrum Basics™
 - AWS Partner – Technical Accreditation
 - Microsoft Certified: Azure Fundamentals
 - AWS Certified Solutions Architect – Associate (SAA)
-- Experts Exchange  –  Server HW, Storage HW, Virtualization Master
+- Experts Exchange – Server HW, Storage HW, Virtualization Master
 - VMware Certified Associate (VCA)
 - IBM AIX System Admin
 - IBM AIX Support
@@ -152,4 +153,6 @@ Leading Service Delivery: Infrastructure, SRE & DevOps.
 
 AI: Vibe Coding, Agents, MCPs, Local LLM Hosting, RAG.
 
-DevEx tools: Bitbucket, GitHub, Copilot, ADO, Atlassian Admin.
+DevEx tools: Bitbucket, GitHub, Copilot, ADO, Atlassian, SonarQube, Snyk Admin.
+
+DevSecOps & FinOps.
