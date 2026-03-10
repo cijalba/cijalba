@@ -1,7 +1,7 @@
 
 # 👋 Carlos Ijalba
 
-**Senior Platform Engineer | DevOps Leader | Cloud-Native Architect | Automation & Developer Experience Specialist**
+**Senior Platform Engineer | DevOps Lead | ☁️ Azure & AWS | DevEx | CI/CD | Automation | IaC | International | 🌐 English & Spanish | EU/EMEA/US/LATAM/APAC**
 
 🏆 AWS Certified Solutions Architect – Associate | Azure Fundamentals | VMware Certified | Unix/Linux Specialist  
 📍 Palma de Mallorca, Spain
@@ -13,7 +13,7 @@
 
 Results-driven Platform Engineer and DevOps Leader with 8+ years of hands-on experience designing, building, and scaling cloud-native solutions on Azure and AWS. Proven track record of driving automation, developer enablement, and Infrastructure as Code to deliver robust, maintainable systems for global organizations.
 
-Currently spearheading platform engineering and DevEx initiatives at PayRetailers, I excel at transforming complex requirements into streamlined, high-impact solutions. My international background (Andorra, UK, Spain) and collaborative leadership style empower teams to achieve operational excellence and continuous improvement.
+Currently spearheading platform engineering and DevEx initiatives at PayRetailers, I excel at transforming complex requirements into streamlined, high-impact solutions. My international background (Andorra, UK, Spain) and collaborative leadership style empower teams to achieve operational excellence and continuous improvement. Experience working in EU/EMEA/US/LATAM/APAC.
 
 Over 25 years in enterprise IT across Banking, FinTech, Insurance, Telecoms, Healthcare, Government, Disaster Recovery, Television, Security, Web Hosting, and Military sectors.
 
