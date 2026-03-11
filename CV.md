@@ -1,6 +1,6 @@
 # Carlos Ijalba
 
-**Senior Platform Engineer | DevOps Leader | Cloud-Native Architect**
+**Senior Platform/DevOps Engineer | Technical Teams Leader | DataCenter & Cloud-Native Architect**
 
 📍 Palma de Mallorca, Spain  
 💼 LinkedIn: https://www.linkedin.com/in/carlosijalba  
@@ -10,13 +10,15 @@
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Platform Engineer and DevOps Leader with 8+ years of hands-on experience designing, building, and scaling cloud-native solutions on Azure and AWS. 
+Senior Platform Engineer and DevOps Leader with 8+ years of hands-on experience designing, building, and scaling cloud-native solutions on Azure and AWS. Proven track record of driving automation, developer enablement, and Infrastructure as Code to deliver robust, maintainable systems for global organizations. 
 
-Proven track record of driving automation, developer enablement, and Infrastructure as Code to deliver robust, maintainable systems for global organizations. 
+Previous positions as DevOps Manager, Service Delivery Manager, Release Manager, Technical Leader, IT Systems Director and IT Manager. Long experience with UNIX & Linux systems in Enterprise and multi-client installations in DataCenters and BareMetal.
 
-Spearheading platform engineering and DevEx initiatives while transforming complex requirements into streamlined, high-impact solutions. 
+My international background (Andorra, UK, Spain) and collaborative leadership style empower teams to achieve operational excellence and continuous improvement professionally.
 
-25+ years in enterprise IT across Banking, FinTech, Insurance, Telecoms, Healthcare, Government, Disaster Recovery, and Military sectors.
+Over 25 years in enterprise IT across Banking, FinTech, Insurance, Consultancy, Telecoms, Healthcare, Government, Disaster Recovery, Television, Web Hosting, and Military sectors.
+
+"Empowering teams to deliver innovation through automation, knowledge sharing, and a culture of excellence."
 
 ---
 
@@ -95,17 +97,15 @@ Spearheading platform engineering and DevEx initiatives while transforming compl
 
 ### **DevEx Platform Engineer** | PayRetailers
 **September 2025 – Present**
-- Delivering innovative development and DevOps solutions through strategic technology implementation
-- Leading DORA Metrics implementation with custom solutions to drive continuous improvement
-- Architecting AI-driven tooling strategies (Python, MCP, Cursor, Ollama, Claude, Copilot)
+- Managing and executing Bitbucket & ADO → GitHub Enterprise Migration for 740+ repositories
+- Leading DORA Metrics implementation with custom solutions to drive DevEx continuous improvement
 - Standardizing CI/CD pipelines across Bitbucket, GitHub, and Azure DevOps with enhanced security and compliance
-- Managing and executing major Bitbucket Premium → GitHub Enterprise Migration for 100+ repositories
 - Driving infrastructure cost optimization initiatives reducing annual costs by >$150k through Azure optimization, licensing rationalization, and AI tool efficiency
 
 ### **Platform Engineering Service Delivery Manager** | PayRetailers
 **January 2025 – Present**
 - Leading cross-functional service delivery across Infrastructure, SRE, and DevOps teams
-- Establishing platform standards and best practices for reliability and scalability
+- Agile delivery of platform engineering services to internal customers
 
 ### **DevOps Manager** | PayRetailers
 **2024**
@@ -116,7 +116,7 @@ Spearheading platform engineering and DevEx initiatives while transforming compl
 ### **Release Manager** | PayRetailers
 **2023**
 - Orchestrated complex release cycles across multiple teams using Bitbucket Pipelines
-- Designed and implemented canary deployment patterns to minimize production risk
+- Designed and implemented canary deployment patterns and safeguards to minimize production risk
 
 ### **DevOps Technology Leader** | Cognizant Netcentric
 **2022**
@@ -126,13 +126,14 @@ Spearheading platform engineering and DevEx initiatives while transforming compl
 
 ### **Senior DevOps Engineer** | Cognizant Netcentric
 **2021**
-- Designed and maintained CI/CD pipelines supporting 50+ microservices
-- Implemented infrastructure automation reducing manual tasks by 70%
+- Designed and maintained automatic seurity patching of 450+ Linux servers under VMware with Ansible
+- Maintained and improved infrastructure automation using pipelines, terraform, terragrunt and puppet
 
-### **IT Systems Director** | Seera Group
+### **IT Systems Director** | Seera Groupº
 **2018 – 2021**
 - Led AWS migration initiatives for legacy on-premise infrastructure
-- Achieved AWS certification and established cloud-first strategy
+- Achieved AWS certifications for DevOps team and established a cloud-first strategy
+- Architected mixed OnPremise and AWS infrastructure monitoring (Dyanatrace, Datadog, Nagios)
 
 ### **IT Outsourcing Technical Coordinator** | Logicalis
 **2014 – 2018**
@@ -141,16 +142,17 @@ Spearheading platform engineering and DevEx initiatives while transforming compl
 
 ### **Field Service Engineer** | Sun Microsystems & Oracle
 **2013**
-- Provided on-site hardware support and system administration for enterprise clients
+- Provided on-site hardware support and system administration for enterprise clients on Sun & Oracle hardware
+- VMware Consultant and Auditor for our large clients in Andorra
 
 ### **Senior Technical Analyst** | Accenture
 **2009 – 2013**
-- Developed custom monitoring solutions including ManageEngine AS400 monitoring tool
-- Technical reviewer for enterprise monitoring platforms
+- Developed custom solutions including ManageEngine AS400 monitoring tool, and storage monitoring
+- Senior Technical Analyst in Linux, UNIX, IBM i and HP Integrity servers, providing administraton, teams training, Projet Design and Management for our Banking clients in Andorra
 
 ### **Enterprise IT Specialist** | Inditex, Computacenter, Telewest, Independent Insurance
 **1994-2009**
-- 15 years in enterprise IT roles spanning consulting, hardware administration, storage management, and system support
+- 15 years in enterprise IT roles spanning consulting, hardware administration, storage management, and system support in large DataCenters (UK, Spain).
 
 ---
 
@@ -177,7 +179,8 @@ Spearheading platform engineering and DevEx initiatives while transforming compl
   - "Storage 101: Common Concepts in IT Enterprise Storage" (Experts Exchange, 2015)
   - "Storage 102: Advanced IT Enterprise Storage Concepts" (Experts Exchange, 2016)
   - "System Consoles: Direct, In-Band, and Out-of-Band Management" (Experts Exchange, 2015)
-- **Personal Blog:** SYSADMIN'S SHOUTS! – Ongoing technical insights and enterprise IT perspectives (2014–Present)
+- **Personal Blog:** SYSADMIN'S SHOUTS! – Ongoing technical insights and enterprise IT perspectives (WordPress blog, 2014–Present)
+- **Collaborations in Open Source Projects**
 
 ---
 
@@ -190,8 +193,8 @@ Spearheading platform engineering and DevEx initiatives while transforming compl
 
 ## FOCUS AREAS
 
+**DevOps** DevSecOps & FinOps | Snyk | SonarQube | Git | Liquibase | Trivy | IaC: Terraform, Puppet, Ansible
+
 **AI & Automation:** Vibe Coding | AI Agents | Model Context Protocols (MCPs) | Local LLM Hosting | Retrieval-Augmented Generation (RAG)
 
-**Developer Experience:** Bitbucket | GitHub | GitHub Copilot | Azure DevOps | Atlassian Administration | Platform Engineering
-
-**DevOps** DevSecOps & FinOps | Snyk | SonarQube | Git | Liquibase | Trivy
+**DevEx:** Bitbucket | GitHub | Jenkins | Azure DevOps | Atlassian Administration | DORA Metrics | Typo
