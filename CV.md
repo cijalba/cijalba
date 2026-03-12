@@ -22,7 +22,7 @@ Over 25 years in enterprise IT across Banking, FinTech, Insurance, Consultancy, 
 
 ---
 
-## CORE COMPETENCIES
+## CORE COMPETENCIES | TECH STACK
 
 **Cloud Platforms:**
 
@@ -129,7 +129,7 @@ Over 25 years in enterprise IT across Banking, FinTech, Insurance, Consultancy, 
 - Designed and maintained automatic seurity patching of 450+ Linux servers under VMware with Ansible
 - Maintained and improved infrastructure automation using pipelines, terraform, terragrunt and puppet
 
-### **IT Systems Director** | Seera Groupº
+### **IT Systems Director** | Seera Group
 **2018 – 2021**
 - Led AWS migration initiatives for legacy on-premise infrastructure
 - Achieved AWS certifications for DevOps team and established a cloud-first strategy
