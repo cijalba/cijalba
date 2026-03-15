@@ -3,21 +3,16 @@
 body {
     font-family: 'Inter', sans-serif;
     line-height: 1.4;
-    /* Reduced from 1.6 */
     color: #333;
     max-width: 850px;
-    /* Slightly wider */
     margin: 20px auto;
-    /* Reduced from 40px */
     padding: 15px;
     background-color: #fff;
     font-size: 0.9em;
-    /* Smaller base font */
 }
 
 h1 {
     font-size: 2em;
-    /* Reduced from 2.5em */
     font-weight: 700;
     color: #1a1a1a;
     border-bottom: 3px solid #0078D7;
@@ -27,7 +22,6 @@ h1 {
 
 h2 {
     font-size: 1.3em;
-    /* Reduced from 1.5em */
     font-weight: 600;
     color: #0078D7;
     text-transform: uppercase;
@@ -35,17 +29,14 @@ h2 {
     border-bottom: 1px solid #eee;
     padding-bottom: 3px;
     margin-top: 15px;
-    /* Reduced from 30px */
     margin-bottom: 10px;
 }
 
 h3 {
     font-size: 1.1em;
-    /* Reduced from 1.2em */
     font-weight: 600;
     color: #333;
     margin-top: 10px;
-    /* Reduced from 20px */
     margin-bottom: 2px;
 }
 
@@ -72,7 +63,6 @@ hr {
     border: none;
     border-top: 1px solid #eee;
     margin: 15px 0;
-    /* Reduced from 30px */
 }
 
 /* Custom styling for badges */
