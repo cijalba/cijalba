@@ -12,13 +12,11 @@
 
 Senior Platform Engineer and DevOps Leader with 8+ years of hands-on experience designing, building, and scaling cloud-native solutions on Azure and AWS. Proven track record of driving automation, developer enablement, and Infrastructure as Code to deliver robust, maintainable systems for global organizations. 
 
-Previous positions as DevOps Manager, Service Delivery Manager, Release Manager, Technical Leader, IT Systems Director and IT Manager. Long experience with UNIX & Linux systems in Enterprise and multi-client installations in DataCenters and BareMetal.
+Experienced in DevOps Manager, Service Delivery Manager, Release Manager, Technical Leader, IT Systems Director and IT Manager. Long experience with UNIX & Linux systems in Enterprise and multi-client installations in DataCenters and BareMetal.
 
 My international background (Andorra, UK, Spain) and collaborative leadership style empower teams to achieve operational excellence and continuous improvement professionally.
 
 Over 25 years in enterprise IT across Banking, FinTech, Insurance, Consultancy, Telecoms, Healthcare, Government, Disaster Recovery, Television, Web Hosting, and Military sectors.
-
-"Empowering teams to deliver innovation through automation, knowledge sharing, and a culture of excellence."
 
 ---
 
@@ -98,25 +96,21 @@ Over 25 years in enterprise IT across Banking, FinTech, Insurance, Consultancy, 
 ### **DevEx Platform Engineer** | PayRetailers
 **September 2025 – Present**
 - Managing and executing Bitbucket & ADO → GitHub Enterprise Migration for 740+ repositories
-- Leading DORA Metrics implementation with custom solutions to drive DevEx continuous improvement
 - Standardizing CI/CD pipelines across Bitbucket, GitHub, and Azure DevOps with enhanced security and compliance
 - Driving infrastructure cost optimization initiatives reducing annual costs by >$150k through Azure optimization, licensing rationalization, and AI tool efficiency
 
 ### **Platform Engineering Service Delivery Manager** | PayRetailers
 **January 2025 – Present**
-- Leading cross-functional service delivery across Infrastructure, SRE, and DevOps teams
-- Agile delivery of platform engineering services to internal customers
+- Leading cross-functional service delivery across Infrastructure, SRE, and DevOps teams. Agile delivery of platform engineering
 
 ### **DevOps Manager** | PayRetailers
 **2024**
-- Built and scaled new DevOps team from ground zero, establishing culture and processes
-- Owned release management strategy and Azure cloud architecture evolution
-- Implemented GitFlow and canary deployment strategies
+- Built and scaled a new DevOps team, establishing culture and processes
 
 ### **Release Manager** | PayRetailers
 **2023**
-- Orchestrated complex release cycles across multiple teams using Bitbucket Pipelines
-- Designed and implemented canary deployment patterns and safeguards to minimize production risk
+- Orchestrated complex release cycles across multiple teams using Bitbucket Pipelines, Liquibase
+- Implemented GitFlow, Canary deployment strategies, SemVer, Conventional Commits, ChangeLogs
 
 ### **DevOps Technology Leader** | Cognizant Netcentric
 **2022**
@@ -126,33 +120,32 @@ Over 25 years in enterprise IT across Banking, FinTech, Insurance, Consultancy, 
 
 ### **Senior DevOps Engineer** | Cognizant Netcentric
 **2021**
-- Designed and maintained automatic seurity patching of 450+ Linux servers under VMware with Ansible
+- Designed and maintained automatic security patching of 450+ Linux servers under VMware with Ansible
 - Maintained and improved infrastructure automation using pipelines, terraform, terragrunt and puppet
 
 ### **IT Systems Director** | Seera Group
 **2018 – 2021**
 - Led AWS migration initiatives for legacy on-premise infrastructure
 - Achieved AWS certifications for DevOps team and established a cloud-first strategy
-- Architected mixed OnPremise and AWS infrastructure monitoring (Dyanatrace, Datadog, Nagios)
+- Architected mixed OnPremise and AWS infrastructure monitoring (Dynatrace, Datadog, Nagios, Grafana & Prometheus)
 
 ### **IT Outsourcing Technical Coordinator** | Logicalis
 **2014 – 2018**
-- Managed technical relationships with enterprise clients across multiple sectors
-- Coordinated infrastructure deployments and troubleshooting for mission-critical systems
+- Coordinated IT infrastructure and troubleshooting for mission-critical systems, On-Premise Enterprise and Cloud
 
 ### **Field Service Engineer** | Sun Microsystems & Oracle
 **2013**
 - Provided on-site hardware support and system administration for enterprise clients on Sun & Oracle hardware
-- VMware Consultant and Auditor for our large clients in Andorra
+- VMware Consultant and Auditor for clients in Andorra
 
 ### **Senior Technical Analyst** | Accenture
 **2009 – 2013**
 - Developed custom solutions including ManageEngine AS400 monitoring tool, and storage monitoring
-- Senior Technical Analyst in Linux, UNIX, IBM i and HP Integrity servers, providing administraton, teams training, Projet Design and Management for our Banking clients in Andorra
+- Senior Technical Analyst in Linux, UNIX, IBM i and HP Integrity servers, providing administraton, teams training, Projet Design and Management for Banking clients in Andorra
 
 ### **Enterprise IT Specialist** | Inditex, Computacenter, Telewest, Independent Insurance
 **1994-2009**
-- 15 years in enterprise IT roles spanning consulting, hardware administration, storage management, and system support in large DataCenters (UK, Spain).
+- 15 years in enterprise IT roles spanning consulting, hardware administration, storage management, and system support in large DataCenters (in UK & Spain).
 
 ---
 
@@ -195,6 +188,6 @@ Over 25 years in enterprise IT across Banking, FinTech, Insurance, Consultancy, 
 
 **DevOps** DevSecOps & FinOps | Snyk | SonarQube | Git | Liquibase | Trivy | IaC: Terraform, Puppet, Ansible
 
-**AI & Automation:** Vibe Coding | AI Agents | Model Context Protocols (MCPs) | Local LLM Hosting | Retrieval-Augmented Generation (RAG)
+**AI & Automation:** Vibe Coding | AI Agents | Model Context Protocols (MCPs) | Local LLM Hosting
 
-**DevEx:** Bitbucket | GitHub | Jenkins | Azure DevOps | Atlassian Administration | DORA Metrics | Typo
+**DevEx:** Bitbucket | GitHub | Jenkins | Azure DevOps | Atlassian Administration | DORA Metrics
