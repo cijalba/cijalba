@@ -9,11 +9,9 @@ GitHub: https://github.com/cijalba
 
 ## PROFESSIONAL SUMMARY
 
-Senior DevOps Engineer with 8+ years of hands-on experience cloud-native on Azure and AWS.
+Senior Platform & DevOps Engineer with 8+ years specializing in cloud-native architectures (Azure, AWS) and 25+ years of comprehensive IT enterprise experience. Proven track record of driving Developer Experience (DevEx), FinOps, and large-scale migrations while leading high-performing technical teams and leveraging AI-driven automation.
 
-Experience as DevOps/SRE Manager, Release Manager, Technical Leader, IT Systems Director. Long experience with *NIX systems in Enterprise DataCenters and BareMetal.
-
-Over 25 years in enterprise IT across multiple industries (since 1995).
+Experience as Platform Engineer, DevOps/SRE Manager, Release Manager, Technical Leader, and IT Systems Director. Long experience with *NIX systems in International Enterprise DataCenters and BareMetal across multiple industries (since 1995).
 
 ## TECHNICAL STACK
 
@@ -37,19 +35,22 @@ Over 25 years in enterprise IT across multiple industries (since 1995).
 ![Rancher](https://img.shields.io/badge/Rancher-326CE5?style=for-the-badge&logo=rancher&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-64B0F0?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**CI/CD & DevOps:**
+**CI/CD, DevOps, FinOps & DevSecOps:**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-FFFFFF?style=for-the-badge&logo=sonarqubecloud&logoColor=black)
-![Git](https://img.shields.io/badge/Git-D24939?style=for-the-badge&logo=git&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-FFFFFF?style=for-the-badge&logo=sonatype&logoColor=black)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-FFFFFF?style=for-the-badge&logo=sonarqubecloud&logoColor=black)
+![Trivy](https://img.shields.io/badge/Trivy-141D2D?style=for-the-badge&logo=trivy&logoColor=white)
+![Infracost](https://img.shields.io/badge/Infracost-17C177?style=for-the-badge&logo=infracost&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 
 **Atlassian Ecosystem:**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Opsgenie](https://img.shields.io/badge/Opsgenie-FF9B00?style=for-the-badge&logo=opsgenie&logoColor=white)
 ![Crowd](https://img.shields.io/badge/Crowd-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 
@@ -76,46 +77,42 @@ Over 25 years in enterprise IT across multiple industries (since 1995).
 
 ### **Platform Engineer** | PayRetailers
 **September 2025 – Present**
-- Leading Bitbucket & ADO to GitHub Enterprise Migration for 740+ repositories and pipelines
-- Cost optimization initiatives reduced annual costs by >$150k through Azure optimization, licensing adjustments, and tool re-configuration
+- Led Bitbucket & ADO to GitHub Enterprise Migration for 740+ repositories, establishing self-service CI/CD pipelines, DORA Metrics and improving Developer Experience (DevEx)
+- Spearheaded FinOps initiatives, reducing annual cloud costs by >$150k through Azure optimization, licensing adjustments, and infrastructure rationalization
+- Integrated AI tools (Copilot, Cursor, Ollama) into engineering workflows to accelerate IaC deployment and automate repetitive tasks
 
 ### **Engineering Service Delivery Manager** | PayRetailers
 **2025**
-- Leading service delivery across Infrastructure, SRE and DevOps teams
+- Led cross-functional service delivery across Infrastructure, SRE, and DevOps teams, ensuring high availability for critical payment gateways
 
-### **DevOps Manager** | PayRetailers
-**2024**
-- Built a new follow-the-sun team, establishing DevOps culture and processes
-
-### **Release Manager** | PayRetailers
-**2023**
+### **DevOps & Release Manager** | PayRetailers
+**2023 - 2024**
+- Built a new follow-the-sun DevOps team, establishing a strong engineering culture, DevSecOps practices, and incident response protocols, hired DevOps in Argentina, Spain, Brazil and Bulgaria
+- Managed containerized workloads and integrated automated DevSecOps scanning (SonarQube, Snyk, Trivy, Liquibase) into CI/CD pipelines
 - Orchestrated complex release cycles across multiple squads using Jira Releases & Bitbucket Pipelines
-- Implemented GitFlow, Canary deployments, SemVer, Conventional Commits, ChangeLogs & Release Notes for 40+ International Developers
+- Implemented GitFlow, Canary deployments, SemVer, Conventional Commits (+JIRA Notation), ChangeLogs & Release Notes for 40+ International Developers (8 squads)
 
 ### **DevOps Technology Leader** | Cognizant Netcentric
-**2022**
+**2021 - 2023**
 - AWS Senior DevOps, SRE and DevOps Manager
-- Provided technical leadership, mentoring and best practices to engineering teams
-
-### **Senior DevOps Engineer** | Cognizant Netcentric
-**2021**
+- Technical leadership, mentoring and best practices to engineering teams, including AWS cloud-native strategies
 - Reduced 2000+ vulnerabilities by developing and maintaining automatic security patching for 450+ Linux servers under VMware with Ansible
-- Engineered infrastructure automation improvements using pipelines (Jenkins), terraform, terragrunt and puppet
+- Engineered infrastructure automation improvements using pipelines (Jenkins & JCasC), terraform, terragrunt and puppet
 
 ### **IT Systems Director** | Seera Group
 **2018 – 2021**
-- Led AWS migration initiatives for legacy on-premise infrastructure
-- Architected OnPremise and AWS infrastructure monitoring (Datadog, CentreON, Grafana & Prometheus)
-- Senior Sysadmin (Linux, Hetzner, VMware) and DevOps Engineer (AWS, Atlassian)
+- Led AWS migration initiatives for legacy On-prem infrastructure
+- Architected On-prem & AWS infrastructure monitoring (Datadog, CentreON, Grafana & Prometheus)
+- Senior Sysadmin (Debian, Mint, Hetzner BareMetal, VMware, Veeam, Windows Server, FortiNet) and DevOps Engineer (AWS, Atlassian, Terraform, Packer, EC2, WAF, S3, RDS, Route53, SES)
 
 ### **IT Outsourcing Technical Coordinator** | Logicalis (for Grupo Piñero)
 **2014 – 2018**
-- Coordinated IT infrastructure and troubleshooting for mission-critical systems, On-Premise Enterprise and Cloud (Linux, Windows, AIX, VMware, SAN, Storage, Backup & Recovery, Monitoring)
+- Coordinated IT infrastructure and troubleshooting for mission-critical Web & CRM systems, On-Premise Enterprise and Cloud (Linux, Windows, AIX, VMware, SAN, Storage, Backup & Recovery, Monitoring, Hardware)
 
 ### **Field Service Engineer** | Sun Microsystems & Oracle
 **2013**
 - Provided on-site hardware support and system administration for enterprise clients on Sun & Oracle hardware
-- VMware Consultant and Auditor for clients in Andorra
+- VMware Consultant and Auditor for clients in Andorra (Banking, Gov, Retail, Telecom)
 
 ### **Senior Technical Analyst** | Accenture
 **2009 – 2013**
@@ -141,7 +138,6 @@ Over 25 years in enterprise IT across multiple industries (since 1995).
 - **Technical Reviewer:** "Datadog Cloud Monitoring - Quick Start Guide" (PACKT Publishing, June 2021)
 - **Nagios Exchange:** Published and maintained monitoring plugins for UNIX/Linux systems (2016–2019)
 - **ManageEngine Collaboration:** Co-developed AS400 monitoring capabilities with Zoho (Accenture, 2013)
-- **Personal Blog:** SYSADMIN'S SHOUTS! – Ongoing technical insights and enterprise IT perspectives (WordPress blog, 2014–Present)
 
 ## LANGUAGES
 
