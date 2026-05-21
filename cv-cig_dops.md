@@ -1,3 +1,14 @@
+---
+stylesheet: cv-style.css
+pdf_options:
+  format: A4
+  margin:
+    top: 10mm
+    bottom: 15mm
+    left: 15mm
+    right: 15mm
+---
+
 # Carlos Ijalba
 
 **Senior DevOps Engineer | Technical Teams Leader | DataCenter & Cloud-Native System Architect**
@@ -5,7 +16,7 @@
 📍 Palma de Mallorca, Spain  
 💼 LinkedIn: https://www.linkedin.com/in/carlosijalba  
 📝 Blog: https://ijalba.wordpress.com &nbsp;  
-GitHub: https://github.com/cijalba
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="16" height="16" alt="Octocat"> GitHub: https://github.com/cijalba
 
 ## PROFESSIONAL SUMMARY
 
@@ -72,28 +83,30 @@ Experience as Platform Engineer, DevOps/SRE Manager, Release Manager, Technical 
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-FFFFFF?style=for-the-badge&logo=notebooklm&logoColor=black)
+<div style="page-break-before: always;"></div>
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Platform Engineer** | PayRetailers
-**September 2025 – Present**
+### **Azure DevOps** | Aliando
+**2026 – Present**
+- Azure DevOps platform, automation, CI/CD, FinOps and AI. 
+
+### **Engineering Service Delivery Manager, Platform Engineer** | PayRetailers
+**2025 – 2026**
+- Led cross-functional service delivery across Infrastructure, SRE, and DevOps teams, ensuring high availability for critical payment gateways
 - Led Bitbucket & ADO to GitHub Enterprise Migration for 740+ repositories, establishing self-service CI/CD pipelines, DORA Metrics and improving Developer Experience (DevEx)
 - Spearheaded FinOps initiatives, reducing annual cloud costs by >$150k through Azure optimization, licensing adjustments, and infrastructure rationalization
 - Integrated AI tools (Copilot, Cursor, Ollama) into engineering workflows to accelerate IaC deployment and automate repetitive tasks
 
-### **Engineering Service Delivery Manager** | PayRetailers
-**2025**
-- Led cross-functional service delivery across Infrastructure, SRE, and DevOps teams, ensuring high availability for critical payment gateways
-
 ### **DevOps & Release Manager** | PayRetailers
-**2023 - 2024**
+**2023 – 2024**
 - Built a new follow-the-sun DevOps team, establishing a strong engineering culture, DevSecOps practices, and incident response protocols, hired DevOps in Argentina, Spain, Brazil and Bulgaria
 - Managed containerized workloads and integrated automated DevSecOps scanning (SonarQube, Snyk, Trivy, Liquibase) into CI/CD pipelines
 - Orchestrated complex release cycles across multiple squads using Jira Releases & Bitbucket Pipelines
 - Implemented GitFlow, Canary deployments, SemVer, Conventional Commits (+JIRA Notation), ChangeLogs & Release Notes for 40+ International Developers (8 squads)
 
 ### **DevOps Technology Leader** | Cognizant Netcentric
-**2021 - 2023**
+**2021 – 2023**
 - AWS Senior DevOps, SRE and DevOps Manager
 - Technical leadership, mentoring and best practices to engineering teams, including AWS cloud-native strategies
 - Reduced 2000+ vulnerabilities by developing and maintaining automatic security patching for 450+ Linux servers under VMware with Ansible
@@ -109,10 +122,10 @@ Experience as Platform Engineer, DevOps/SRE Manager, Release Manager, Technical 
 **2014 – 2018**
 - Coordinated IT infrastructure and troubleshooting for mission-critical Web & CRM systems, On-Premise Enterprise and Cloud (Linux, Windows, AIX, VMware, SAN, Storage, Backup & Recovery, Monitoring, Hardware)
 
-### **Field Service Engineer** | Sun Microsystems & Oracle
-**2013**
-- Provided on-site hardware support and system administration for enterprise clients on Sun & Oracle hardware
-- VMware Consultant and Auditor for clients in Andorra (Banking, Gov, Retail, Telecom)
+### **Field Service Engineer** | Sun Microsystems/Oracle, Solucions
+**2013 – 2014**
+- Provided on-site hardware support and system administration for enterprise clients on Sun, StorageTek & Oracle hardware
+- VMware Consultant and Auditor for Solucions clients in Andorra (Banking, Gov, Retail, Telecom)
 
 ### **Senior Technical Analyst** | Accenture
 **2009 – 2013**
@@ -120,18 +133,18 @@ Experience as Platform Engineer, DevOps/SRE Manager, Release Manager, Technical 
 - Senior Technical Analyst in Linux, UNIX, IBM i and HP Integrity servers, providing administraton, teams training, Projet Design and Management for Banking clients in Andorra
 
 ### **Enterprise IT Specialist** | Inditex, Computacenter, Telewest, Independent Insurance
-**1994-2009**
+**1994 – 2009**
 - 15 years in enterprise IT roles spanning consulting, hardware administration, storage management, and system support in large DataCenters (in UK & Spain).
 
 ## CERTIFICATIONS & CREDENTIALS
 
-- **Registered Scrum Basics™**
-- **AWS Partner – Technical Accreditation**
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **AWS Certified Solutions Architect – Associate (SAA, Expired)**
-- **VMware Certified Associate (VCA-DCV, Expired)**
-- **IBM Certified: AIX System Administrator (Expired)**
-- **IBM Certified: AIX Support Specialist (Expired)**
+- 2026: **ANTHROP\C: Claude Code in Action**
+- 2025: **SCRUMINC: Registered Scrum Basics**
+- 2022: **AWS Partner – Technical Accreditation**
+- 2021: **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- 2019: **AWS Certified Solutions Architect – Associate (SAA, Expired)**
+- 2013: **VMware Certified Associate (VCA-DCV)**
+- 2001: **IBM Certified: AIX System Administrator & AIX Support Specialist**
 
 ## PUBLICATIONS & CONTRIBUTIONS
 
@@ -141,5 +154,5 @@ Experience as Platform Engineer, DevOps/SRE Manager, Release Manager, Technical 
 
 ## LANGUAGES
 
-- 🇬🇧 **English** - C2/Bilingual
-- 🇪🇸 **Spanish** - Native/Bilingual
+- <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle; margin-right: 4px;" alt="UK Flag"> **English** - C2/Bilingual
+- <img src="https://flagcdn.com/w20/es.png" width="20" style="vertical-align: middle; margin-right: 4px;" alt="Spain Flag"> **Spanish** - Native/Bilingual

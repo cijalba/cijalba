@@ -16,6 +16,8 @@ h1 {
     font-weight: 700;
     color: #1a1a1a;
     border-bottom: 3px solid #0078D7;
+    padding-top: 0;
+    margin-top: 0;
     padding-bottom: 5px;
     margin-bottom: 5px;
 }

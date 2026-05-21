@@ -91,17 +91,16 @@ Over 25 years in enterprise IT across Banking, FinTech, Insurance, Telecoms, Hea
 ---
 ## 💼 Current Role
 
-### **DevEx Platform Engineer** @ PayRetailers *(Sept 2025 - Present)*
+### **Azure DevOps** @Aliando *(2026 – Present)*
 
+### **Platform Engineering Service Delivery Manager** @PayRetailers *(2025 – 2026)*
+Leading Service Delivery: Infrastructure, SRE & DevOps.
 - Delivering better development & DevOps solutions through technology
 - **Major**: Bitbucket Premium & ADO → GitHub Enterprise Migration, Cursor & Claude → Copilot Business Migration
 - **CI/CD**: Bitbucket, GitHub, Azure DevOps, SonarQube, Snyk
 - **AI tooling**: Python, MCP, Cursor, Ollama, Claude, Copilot
 - **Cost Optimization**: Infrastructure cost reduction &gt;$150k/year (by adjusting Azure, Licensing & AI tools)
 - **DORA Metrics** implementation (Typo + custom solutions)
-
-### **Platform Engineering Service Delivery Manager** *(Jan 2025 - Present)*
-Leading Service Delivery: Infrastructure, SRE & DevOps.
 
 ---
 ## 📈 Previous Experience
@@ -125,7 +124,7 @@ Leading Service Delivery: Infrastructure, SRE & DevOps.
 - Microsoft Certified: Azure Fundamentals
 - AWS Certified Solutions Architect – Associate (SAA)
 - Experts Exchange – Server HW, Storage HW, Virtualization Master
-- VMware Certified Associate (VCA)
+- VMware Certified Associate (VCA-DCV)
 - IBM AIX System Admin
 - IBM AIX Support
 

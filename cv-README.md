@@ -4,17 +4,17 @@ This project includes a workflow to generate a professional PDF from a `cv-***.m
 
 ## Quick Update Command
 
-To regenerate the `cv-cig_4ai.pdf` with the current styles and content, run this command from the project root:
+To regenerate the `cv-cig_4ai.pdf` with the current styles and content, run this command from the project root (the stylesheet and page margins are now configured via YAML front matter in the `.md` files themselves):
 
 ```bash
-npx md-to-pdf cv-cig_4ai.md --stylesheet cv-style.css --pdf-options '{"format": "A4", "margin": "15mm"}'
+npx md-to-pdf cv-cig_4ai.md
 ```
 
 ## Customization
 
 - **Content**: Edit `cv-***.md` file directly.
 - **Styling**: Modify `cv-style.css` to change fonts, colors, or spacing.
-- **Margins/Format**: Adjust the `--pdf-options` JSON string in the command above.
+- **Margins/Format**: Adjust the `pdf_options` in the YAML front matter of the `.md` file.
 
 ## Prerequisites
 

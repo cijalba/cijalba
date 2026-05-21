@@ -1,3 +1,14 @@
+---
+stylesheet: cv-style.css
+pdf_options:
+  format: A4
+  margin:
+    top: 10mm
+    bottom: 15mm
+    left: 15mm
+    right: 15mm
+---
+
 # Carlos Ijalba
 
 **Senior Platform/DevOps Engineer | Technical Teams Leader | DataCenter & Cloud-Native Architect**
